@@ -2,6 +2,7 @@
     
     	para1=anels
     	para2=ruilinliu.com\
+    	\\“\”是不能解析的，路径中可以用“/”代替“\”
     	path=c:/anels/test/
   
   * 然后是程序：
