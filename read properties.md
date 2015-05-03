@@ -24,3 +24,5 @@
     	    System.out.println(“pa: “+pa);
     	  }
     	}
+
+reference : http://outofmemory.cn/code-snippet/7162/java-property-read-ini-file
