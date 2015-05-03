@@ -1,2 +1,0 @@
-##1.利用java.util.Properties可以非常方便的读取ini配置文件。这里给一个简单例子。 首先，需要一个ini配置文件。
-  * hello
